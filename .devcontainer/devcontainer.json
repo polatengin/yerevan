@@ -1,0 +1,5 @@
+{
+  "name": "Yerevan Development Environment",
+  "image": "mcr.microsoft.com/devcontainers/base:bullseye",
+  "remoteUser": "root"
+}
