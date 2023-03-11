@@ -14,6 +14,7 @@ export default function Products() {
   return (
     <div>
       <h1>Products</h1>
+      <button onClick={() => postLoginChanged(`user '${generateUserName()}' is logged in`)}>Send message to other tabs</button>
     </div>
-  )
+  );
 }
